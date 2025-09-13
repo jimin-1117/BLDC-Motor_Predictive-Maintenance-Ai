@@ -49,3 +49,13 @@
 - 실시간 고장 진단 수행 결과 Results of Real-time Fault Diagnosis
 
 <img width="258" height="94" alt="image" src="https://github.com/user-attachments/assets/9ad37a5e-e626-4a1a-940c-f4d61817056e" />
+
+
+## 📄 Publication
+- 이호형, 유지민, 백장우, 송현서, 이재민, 하창욱, 이인수. (2025-06-12). CNN-LSTM 모델을 활용한 BLDC 모터 초기 베어링 이상 진단 시스템. Proceedings of KIIT Conference, 제주.
+[bldc 모터 고장진단 논문 제출_한국정보기술학회 대학생논문경진대회_2025 05 15 (1).pdf](https://github.com/user-attachments/files/22311451/bldc._._2025.05.15.1.pdf)
+
+
+## 🏆 Awards
+- **우수논문상 (은상)**, 한국정보기술학회 대학생논문경진대회, 2025
+[하계학술대회 상장.pdf](https://github.com/user-attachments/files/22311439/default.pdf)
