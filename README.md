@@ -36,14 +36,9 @@
 - 랜덤 시프팅 증강 + FFT 변환  
 
 **결과**
-- **테스트 정확도: 97.42%**  
-- 혼동행렬 기준, 정상/소리/진동/IMU Fault 모두 높은 분류 성능  
-
-
-
-
-
+- **테스트 정확도: 97.42%**
 <img width="270" height="102" alt="image" src="https://github.com/user-attachments/assets/c4fce9a9-dd7a-47b3-94dc-773e5b9cbcac" />
+- 혼동행렬 기준, 정상/소리/진동/IMU Fault 모두 높은 분류 성능  
 <img width="277" height="203" alt="image" src="https://github.com/user-attachments/assets/330a38b2-fe1b-4251-920e-8ddf45a6eed1" />
 
 - 실시간 센서 데이터 발행 Real-time Sensor Data Transmission
